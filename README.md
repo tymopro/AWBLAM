@@ -2,7 +2,7 @@
 
 A Weird But Light And Minimal OS (working title)
 
-This repository documents my journey of learning programming, computer architecture, and operating system development.
+This repository documents my journey of learning programming, computer architecture, and operating system development. as a 13 year old (currently)
 
 The goal is to eventually create my own light and highly customized operating system that doesn't feel boring.
 
