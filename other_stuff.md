@@ -1,1 +1,2 @@
-Nothing to see here for now
+## Ideas for the os
+adding stuff later, its 2:15am
